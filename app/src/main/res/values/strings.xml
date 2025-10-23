@@ -2,4 +2,28 @@
     <string name="app_name">HelloWorld</string>
     <string name="click">Click</string>
     <string name="app_text">Нажимай на кнопочку)</string>
+
+    <string-array name="song_lyrics">
+        <item>(Nah) People wanna get close when the money come</item>
+        <item>And the beat goes on, "Parara-ram-pam-pam" (Yeah)</item>
+        <item>Gimme a second, I need to catch the tempo, tempo</item>
+        <item>Gimme a second, I\'m caught in the limbo</item>
+        <item>People always gather \'round where the fire starts (Fire starts)</item>
+        <item>They don\'t ever wanna help \'til we in the dark (In the dark)</item>
+        <item>Gimme a second, I need to catch the tempo, tempo</item>
+        <item>Gimme a second, I\'m caught in the limbo</item>
+        <item>I used to sleep on a pool table</item>
+        <item>Now I got tables that\'s out by the pool (Yeah)</item>
+        <item>Back then thought life was a cruel fable</item>
+        <item>Now I realized I just didn\'t read through (Nah)</item>
+        <item>People wanna get close when the money come (Money come)</item>
+        <item>And the beat goes on, "Parara-ram-pam-pam" (Pam-pam-pam, yeah)</item>
+        <item>Gimme a second, I need to catch the tempo, tempo</item>
+        <item>Gimme a second, I\'m caught in the limbo</item>
+        <item>People always gather \'round where the fire starts (Fire starts)</item>
+        <item>They don\'t ever wanna help \'til we in the dark (In the dark)</item>
+        <item>Gimme a second, I need to catch the tempo, tempo</item>
+        <item>Gimme a second, I\'m caught in the limbo</item>
+    </string-array>
+
 </resources>
